@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.row {
+  display: table-row;
+}
+
+.expandable:not(.expanded) {
+  display: none;
+}
+
+.expanded {
+  color: blue;
+}
